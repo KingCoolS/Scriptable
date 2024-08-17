@@ -52,10 +52,10 @@
     {
       "name": "_plugins-oild",
       "title": "每日油价",
-      "thumb": "https://raw.githubusercontent.com/KingCoolS/Scriptable/main/icon/item_oild.png",
+      "thumb": "https://raw.githubusercontent.com/KingCoolS/Scriptable/main/icon/item_oil.png",
       "version": "20240101",
       "description": "显示每日油价和油价调整信息",
-      "scriptURL": "https://raw.githubusercontent.com/KingCoolS/Scriptable/main/_plugins-oild.js"
+      "scriptURL": "https://raw.githubusercontent.com/KingCoolS/Scriptable/main/_plugins-oil.js"
     },
     {
       "name": "_plugins-calendar",
