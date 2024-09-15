@@ -51,11 +51,19 @@
     },
     {
       "name": "_plugins-oil",
-      "title": "每日油价",
+      "title": "今日油价",
       "thumb": "https://raw.githubusercontent.com/KingCoolS/Scriptable/main/icon/item_oil.png",
       "version": "20240101",
-      "description": "显示每日油价和油价调整信息",
+      "description": "显示今日油价和油价调整信息",
       "scriptURL": "https://raw.githubusercontent.com/KingCoolS/Scriptable/main/_plugins-oil.js"
+    },
+    {
+      "name": "_plugins-rate",
+      "title": "今日汇率",
+      "thumb": "https://raw.githubusercontent.com/KingCoolS/Scriptable/main/icon/item_rate.png",
+      "version": "20240101",
+      "description": "显示今日汇率信息",
+      "scriptURL": "https://raw.githubusercontent.com/KingCoolS/Scriptable/main/_plugins-rate.js"
     },
     {
       "name": "_plugins-calendar",
